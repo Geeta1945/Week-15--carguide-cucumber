@@ -1,0 +1,96 @@
+2022-05-19 11:05:620 INFO  HomePage :30 - Mouse hover on buy and sell car : [[FirefoxDriver: firefox on WINDOWS (2a4aa784-088c-4402-91a7-5114a02c8fc0)] -> xpath: //a[contains(text(),'buy + sell')]]
+2022-05-19 11:05:508 INFO  HomePage :42 - Mouse hover and click on Used : [[FirefoxDriver: firefox on WINDOWS (2a4aa784-088c-4402-91a7-5114a02c8fc0)] -> xpath: //a[@data-gtm-label='sub nav used cars search']]
+2022-05-19 11:05:73 INFO  CarSearchPage :35 - Selecting make from drop down[[FirefoxDriver: firefox on WINDOWS (2a4aa784-088c-4402-91a7-5114a02c8fc0)] -> xpath: //select[@id='makes']]
+2022-05-19 11:05:402 INFO  CarSearchPage :40 - Selecting model from drop down[[FirefoxDriver: firefox on WINDOWS (2a4aa784-088c-4402-91a7-5114a02c8fc0)] -> xpath: //select[@id='models']]
+2022-05-19 11:05:797 INFO  CarSearchPage :44 - Selecting location from drop down[[FirefoxDriver: firefox on WINDOWS (2a4aa784-088c-4402-91a7-5114a02c8fc0)] -> xpath: //select[@id='locations']]
+2022-05-19 11:05:126 INFO  CarSearchPage :48 - Selecting price from drop down$15,000
+2022-05-19 11:05:993 INFO  CarSearchPage :52 - Clicking on find my next car button : Proxy element for: DefaultElementLocator 'By.xpath: //input[@id='search-submit']'
+2022-05-19 11:05:16 INFO  CarSearchPage :55 - Getting text from search : [[FirefoxDriver: firefox on WINDOWS (2a4aa784-088c-4402-91a7-5114a02c8fc0)] -> xpath: //h1[@class='listing-search-title']]
+2022-05-19 11:05:279 INFO  HomePage :30 - Mouse hover on buy and sell car : [[FirefoxDriver: firefox on WINDOWS (4aadd077-0060-4a74-8902-c87c09f6d92d)] -> xpath: //a[contains(text(),'buy + sell')]]
+2022-05-19 11:05:418 INFO  HomePage :42 - Mouse hover and click on Used : [[FirefoxDriver: firefox on WINDOWS (4aadd077-0060-4a74-8902-c87c09f6d92d)] -> xpath: //a[@data-gtm-label='sub nav used cars search']]
+2022-05-19 11:05:21 INFO  CarSearchPage :35 - Selecting make from drop down[[FirefoxDriver: firefox on WINDOWS (4aadd077-0060-4a74-8902-c87c09f6d92d)] -> xpath: //select[@id='makes']]
+2022-05-19 11:05:545 INFO  CarSearchPage :40 - Selecting model from drop down[[FirefoxDriver: firefox on WINDOWS (4aadd077-0060-4a74-8902-c87c09f6d92d)] -> xpath: //select[@id='models']]
+2022-05-19 11:05:638 INFO  CarSearchPage :44 - Selecting location from drop down[[FirefoxDriver: firefox on WINDOWS (4aadd077-0060-4a74-8902-c87c09f6d92d)] -> xpath: //select[@id='locations']]
+2022-05-19 11:05:986 INFO  CarSearchPage :48 - Selecting price from drop down$20,000
+2022-05-19 11:05:215 INFO  CarSearchPage :52 - Clicking on find my next car button : Proxy element for: DefaultElementLocator 'By.xpath: //input[@id='search-submit']'
+2022-05-19 11:05:234 INFO  CarSearchPage :55 - Getting text from search : [[FirefoxDriver: firefox on WINDOWS (4aadd077-0060-4a74-8902-c87c09f6d92d)] -> xpath: //h1[@class='listing-search-title']]
+2022-05-19 11:05:245 INFO  HomePage :30 - Mouse hover on buy and sell car : [[FirefoxDriver: firefox on WINDOWS (9ebe5289-3015-4935-b4d5-a3b708f93e2a)] -> xpath: //a[contains(text(),'buy + sell')]]
+2022-05-19 11:05:193 INFO  HomePage :42 - Mouse hover and click on Used : [[FirefoxDriver: firefox on WINDOWS (9ebe5289-3015-4935-b4d5-a3b708f93e2a)] -> xpath: //a[@data-gtm-label='sub nav used cars search']]
+2022-05-19 11:05:811 INFO  CarSearchPage :35 - Selecting make from drop down[[FirefoxDriver: firefox on WINDOWS (9ebe5289-3015-4935-b4d5-a3b708f93e2a)] -> xpath: //select[@id='makes']]
+2022-05-19 11:05:13 INFO  CarSearchPage :40 - Selecting model from drop down[[FirefoxDriver: firefox on WINDOWS (9ebe5289-3015-4935-b4d5-a3b708f93e2a)] -> xpath: //select[@id='models']]
+2022-05-19 11:05:431 INFO  CarSearchPage :44 - Selecting location from drop down[[FirefoxDriver: firefox on WINDOWS (9ebe5289-3015-4935-b4d5-a3b708f93e2a)] -> xpath: //select[@id='locations']]
+2022-05-19 11:05:765 INFO  CarSearchPage :48 - Selecting price from drop down$30,000
+2022-05-19 11:05:720 INFO  CarSearchPage :52 - Clicking on find my next car button : Proxy element for: DefaultElementLocator 'By.xpath: //input[@id='search-submit']'
+2022-05-19 11:05:739 INFO  CarSearchPage :55 - Getting text from search : [[FirefoxDriver: firefox on WINDOWS (9ebe5289-3015-4935-b4d5-a3b708f93e2a)] -> xpath: //h1[@class='listing-search-title']]
+2022-05-19 11:05:382 INFO  HomePage :30 - Mouse hover on buy and sell car : [[FirefoxDriver: firefox on WINDOWS (3d7ef500-8fe9-436a-9e6d-5cbdd3615f61)] -> xpath: //a[contains(text(),'buy + sell')]]
+2022-05-19 11:05:678 INFO  HomePage :42 - Mouse hover and click on Used : [[FirefoxDriver: firefox on WINDOWS (3d7ef500-8fe9-436a-9e6d-5cbdd3615f61)] -> xpath: //a[@data-gtm-label='sub nav used cars search']]
+2022-05-19 11:05:354 INFO  CarSearchPage :35 - Selecting make from drop down[[FirefoxDriver: firefox on WINDOWS (3d7ef500-8fe9-436a-9e6d-5cbdd3615f61)] -> xpath: //select[@id='makes']]
+2022-05-19 11:05:847 INFO  CarSearchPage :40 - Selecting model from drop down[[FirefoxDriver: firefox on WINDOWS (3d7ef500-8fe9-436a-9e6d-5cbdd3615f61)] -> xpath: //select[@id='models']]
+2022-05-19 11:05:232 INFO  CarSearchPage :44 - Selecting location from drop down[[FirefoxDriver: firefox on WINDOWS (3d7ef500-8fe9-436a-9e6d-5cbdd3615f61)] -> xpath: //select[@id='locations']]
+2022-05-19 11:05:528 INFO  CarSearchPage :48 - Selecting price from drop down$20,000
+2022-05-19 11:05:625 INFO  CarSearchPage :52 - Clicking on find my next car button : Proxy element for: DefaultElementLocator 'By.xpath: //input[@id='search-submit']'
+2022-05-19 11:05:657 INFO  CarSearchPage :55 - Getting text from search : Proxy element for: DefaultElementLocator 'By.xpath: //h1[@class='listing-search-title']'
+2022-05-19 11:05:831 INFO  HomePage :30 - Mouse hover on buy and sell car : [[FirefoxDriver: firefox on WINDOWS (0f4e22df-a298-4518-ba30-8add6d29abf0)] -> xpath: //a[contains(text(),'buy + sell')]]
+2022-05-19 11:05:641 INFO  HomePage :42 - Mouse hover and click on Used : [[FirefoxDriver: firefox on WINDOWS (0f4e22df-a298-4518-ba30-8add6d29abf0)] -> xpath: //a[@data-gtm-label='sub nav used cars search']]
+2022-05-19 11:05:235 INFO  CarSearchPage :35 - Selecting make from drop down[[FirefoxDriver: firefox on WINDOWS (0f4e22df-a298-4518-ba30-8add6d29abf0)] -> xpath: //select[@id='makes']]
+2022-05-19 11:05:705 INFO  CarSearchPage :40 - Selecting model from drop down[[FirefoxDriver: firefox on WINDOWS (0f4e22df-a298-4518-ba30-8add6d29abf0)] -> xpath: //select[@id='models']]
+2022-05-19 11:05:72 INFO  CarSearchPage :44 - Selecting location from drop down[[FirefoxDriver: firefox on WINDOWS (0f4e22df-a298-4518-ba30-8add6d29abf0)] -> xpath: //select[@id='locations']]
+2022-05-19 11:05:372 INFO  CarSearchPage :48 - Selecting price from drop down$40,000
+2022-05-19 11:05:948 INFO  CarSearchPage :52 - Clicking on find my next car button : Proxy element for: DefaultElementLocator 'By.xpath: //input[@id='search-submit']'
+2022-05-19 11:05:969 INFO  CarSearchPage :55 - Getting text from search : Proxy element for: DefaultElementLocator 'By.xpath: //h1[@class='listing-search-title']'
+2022-05-19 11:05:59 INFO  HomePage :30 - Mouse hover on buy and sell car : [[FirefoxDriver: firefox on WINDOWS (1d09b504-7b2f-4a6a-b270-3ad9ad601a67)] -> xpath: //a[contains(text(),'buy + sell')]]
+2022-05-19 11:05:790 INFO  HomePage :42 - Mouse hover and click on Used : [[FirefoxDriver: firefox on WINDOWS (1d09b504-7b2f-4a6a-b270-3ad9ad601a67)] -> xpath: //a[@data-gtm-label='sub nav used cars search']]
+2022-05-19 11:05:372 INFO  CarSearchPage :35 - Selecting make from drop down[[FirefoxDriver: firefox on WINDOWS (1d09b504-7b2f-4a6a-b270-3ad9ad601a67)] -> xpath: //select[@id='makes']]
+2022-05-19 11:05:727 INFO  CarSearchPage :40 - Selecting model from drop down[[FirefoxDriver: firefox on WINDOWS (1d09b504-7b2f-4a6a-b270-3ad9ad601a67)] -> xpath: //select[@id='models']]
+2022-05-19 11:05:83 INFO  CarSearchPage :44 - Selecting location from drop down[[FirefoxDriver: firefox on WINDOWS (1d09b504-7b2f-4a6a-b270-3ad9ad601a67)] -> xpath: //select[@id='locations']]
+2022-05-19 11:05:418 INFO  CarSearchPage :48 - Selecting price from drop down$30,000
+2022-05-19 11:05:654 INFO  CarSearchPage :52 - Clicking on find my next car button : Proxy element for: DefaultElementLocator 'By.xpath: //input[@id='search-submit']'
+2022-05-19 11:05:684 INFO  CarSearchPage :55 - Getting text from search : Proxy element for: DefaultElementLocator 'By.xpath: //h1[@class='listing-search-title']'
+2022-05-19 11:05:54 INFO  HomePage :30 - Mouse hover on buy and sell car : [[FirefoxDriver: firefox on WINDOWS (0d80cfbc-8ccf-43a9-9490-f2e72b15ded6)] -> xpath: //a[contains(text(),'buy + sell')]]
+2022-05-19 11:05:278 INFO  HomePage :42 - Mouse hover and click on Used : [[FirefoxDriver: firefox on WINDOWS (0d80cfbc-8ccf-43a9-9490-f2e72b15ded6)] -> xpath: //a[@data-gtm-label='sub nav used cars search']]
+2022-05-19 11:05:909 INFO  CarSearchPage :35 - Selecting make from drop down[[FirefoxDriver: firefox on WINDOWS (0d80cfbc-8ccf-43a9-9490-f2e72b15ded6)] -> xpath: //select[@id='makes']]
+2022-05-19 11:05:986 INFO  CarSearchPage :40 - Selecting model from drop down[[FirefoxDriver: firefox on WINDOWS (0d80cfbc-8ccf-43a9-9490-f2e72b15ded6)] -> xpath: //select[@id='models']]
+2022-05-19 11:05:376 INFO  CarSearchPage :44 - Selecting location from drop down[[FirefoxDriver: firefox on WINDOWS (0d80cfbc-8ccf-43a9-9490-f2e72b15ded6)] -> xpath: //select[@id='locations']]
+2022-05-19 11:05:714 INFO  CarSearchPage :48 - Selecting price from drop down$15,000
+2022-05-19 11:05:777 INFO  CarSearchPage :52 - Clicking on find my next car button : Proxy element for: DefaultElementLocator 'By.xpath: //input[@id='search-submit']'
+2022-05-19 11:05:797 INFO  CarSearchPage :55 - Getting text from search : [[FirefoxDriver: firefox on WINDOWS (0d80cfbc-8ccf-43a9-9490-f2e72b15ded6)] -> xpath: //h1[@class='listing-search-title']]
+2022-05-19 11:05:857 INFO  HomePage :30 - Mouse hover on buy and sell car : [[FirefoxDriver: firefox on WINDOWS (82d433e3-dad9-4698-8c6a-f91556a345a8)] -> xpath: //a[contains(text(),'buy + sell')]]
+2022-05-19 11:05:234 INFO  HomePage :42 - Mouse hover and click on Used : [[FirefoxDriver: firefox on WINDOWS (82d433e3-dad9-4698-8c6a-f91556a345a8)] -> xpath: //a[@data-gtm-label='sub nav used cars search']]
+2022-05-19 11:05:814 INFO  CarSearchPage :35 - Selecting make from drop down[[FirefoxDriver: firefox on WINDOWS (82d433e3-dad9-4698-8c6a-f91556a345a8)] -> xpath: //select[@id='makes']]
+2022-05-19 11:05:186 INFO  CarSearchPage :40 - Selecting model from drop down[[FirefoxDriver: firefox on WINDOWS (82d433e3-dad9-4698-8c6a-f91556a345a8)] -> xpath: //select[@id='models']]
+2022-05-19 11:05:244 INFO  CarSearchPage :44 - Selecting location from drop down[[FirefoxDriver: firefox on WINDOWS (82d433e3-dad9-4698-8c6a-f91556a345a8)] -> xpath: //select[@id='locations']]
+2022-05-19 11:05:531 INFO  CarSearchPage :48 - Selecting price from drop down$20,000
+2022-05-19 11:05:46 INFO  CarSearchPage :52 - Clicking on find my next car button : Proxy element for: DefaultElementLocator 'By.xpath: //input[@id='search-submit']'
+2022-05-19 11:05:68 INFO  CarSearchPage :55 - Getting text from search : [[FirefoxDriver: firefox on WINDOWS (82d433e3-dad9-4698-8c6a-f91556a345a8)] -> xpath: //h1[@class='listing-search-title']]
+2022-05-19 11:05:830 INFO  HomePage :30 - Mouse hover on buy and sell car : [[FirefoxDriver: firefox on WINDOWS (2b09a2e0-7ab9-4731-b82c-3877a2e9d764)] -> xpath: //a[contains(text(),'buy + sell')]]
+2022-05-19 11:05:625 INFO  HomePage :42 - Mouse hover and click on Used : [[FirefoxDriver: firefox on WINDOWS (2b09a2e0-7ab9-4731-b82c-3877a2e9d764)] -> xpath: //a[@data-gtm-label='sub nav used cars search']]
+2022-05-19 11:05:122 INFO  CarSearchPage :35 - Selecting make from drop down[[FirefoxDriver: firefox on WINDOWS (2b09a2e0-7ab9-4731-b82c-3877a2e9d764)] -> xpath: //select[@id='makes']]
+2022-05-19 11:05:255 INFO  CarSearchPage :40 - Selecting model from drop down[[FirefoxDriver: firefox on WINDOWS (2b09a2e0-7ab9-4731-b82c-3877a2e9d764)] -> xpath: //select[@id='models']]
+2022-05-19 11:05:607 INFO  CarSearchPage :44 - Selecting location from drop down[[FirefoxDriver: firefox on WINDOWS (2b09a2e0-7ab9-4731-b82c-3877a2e9d764)] -> xpath: //select[@id='locations']]
+2022-05-19 11:05:927 INFO  CarSearchPage :48 - Selecting price from drop down$30,000
+2022-05-19 11:05:821 INFO  CarSearchPage :52 - Clicking on find my next car button : Proxy element for: DefaultElementLocator 'By.xpath: //input[@id='search-submit']'
+2022-05-19 11:05:838 INFO  CarSearchPage :55 - Getting text from search : [[FirefoxDriver: firefox on WINDOWS (2b09a2e0-7ab9-4731-b82c-3877a2e9d764)] -> xpath: //h1[@class='listing-search-title']]
+2022-05-19 11:05:766 INFO  HomePage :30 - Mouse hover on buy and sell car : [[FirefoxDriver: firefox on WINDOWS (f68f521a-9d99-43db-aa7d-a693d075e4f6)] -> xpath: //a[contains(text(),'buy + sell')]]
+2022-05-19 11:05:290 INFO  HomePage :42 - Mouse hover and click on Used : [[FirefoxDriver: firefox on WINDOWS (f68f521a-9d99-43db-aa7d-a693d075e4f6)] -> xpath: //a[@data-gtm-label='sub nav used cars search']]
+2022-05-19 11:05:734 INFO  CarSearchPage :35 - Selecting make from drop down[[FirefoxDriver: firefox on WINDOWS (f68f521a-9d99-43db-aa7d-a693d075e4f6)] -> xpath: //select[@id='makes']]
+2022-05-19 11:05:134 INFO  CarSearchPage :40 - Selecting model from drop down[[FirefoxDriver: firefox on WINDOWS (f68f521a-9d99-43db-aa7d-a693d075e4f6)] -> xpath: //select[@id='models']]
+2022-05-19 11:05:425 INFO  CarSearchPage :44 - Selecting location from drop down[[FirefoxDriver: firefox on WINDOWS (f68f521a-9d99-43db-aa7d-a693d075e4f6)] -> xpath: //select[@id='locations']]
+2022-05-19 11:05:704 INFO  CarSearchPage :48 - Selecting price from drop down$20,000
+2022-05-19 11:05:980 INFO  CarSearchPage :52 - Clicking on find my next car button : Proxy element for: DefaultElementLocator 'By.xpath: //input[@id='search-submit']'
+2022-05-19 11:05:997 INFO  CarSearchPage :55 - Getting text from search : [[FirefoxDriver: firefox on WINDOWS (f68f521a-9d99-43db-aa7d-a693d075e4f6)] -> xpath: //h1[@class='listing-search-title']]
+2022-05-19 11:05:979 INFO  HomePage :30 - Mouse hover on buy and sell car : [[FirefoxDriver: firefox on WINDOWS (71131bae-fd8a-49db-8697-7a1971a65872)] -> xpath: //a[contains(text(),'buy + sell')]]
+2022-05-19 11:05:741 INFO  HomePage :42 - Mouse hover and click on Used : [[FirefoxDriver: firefox on WINDOWS (71131bae-fd8a-49db-8697-7a1971a65872)] -> xpath: //a[@data-gtm-label='sub nav used cars search']]
+2022-05-19 11:05:319 INFO  CarSearchPage :35 - Selecting make from drop down[[FirefoxDriver: firefox on WINDOWS (71131bae-fd8a-49db-8697-7a1971a65872)] -> xpath: //select[@id='makes']]
+2022-05-19 11:05:642 INFO  CarSearchPage :40 - Selecting model from drop down[[FirefoxDriver: firefox on WINDOWS (71131bae-fd8a-49db-8697-7a1971a65872)] -> xpath: //select[@id='models']]
+2022-05-19 11:05:972 INFO  CarSearchPage :44 - Selecting location from drop down[[FirefoxDriver: firefox on WINDOWS (71131bae-fd8a-49db-8697-7a1971a65872)] -> xpath: //select[@id='locations']]
+2022-05-19 11:05:263 INFO  CarSearchPage :48 - Selecting price from drop down$50,000
+2022-05-19 11:05:677 INFO  CarSearchPage :52 - Clicking on find my next car button : Proxy element for: DefaultElementLocator 'By.xpath: //input[@id='search-submit']'
+2022-05-19 11:05:698 INFO  CarSearchPage :55 - Getting text from search : [[FirefoxDriver: firefox on WINDOWS (71131bae-fd8a-49db-8697-7a1971a65872)] -> xpath: //h1[@class='listing-search-title']]
+2022-05-19 11:05:824 INFO  HomePage :30 - Mouse hover on buy and sell car : [[FirefoxDriver: firefox on WINDOWS (382d4bd2-709e-4497-ac21-9b191568bd89)] -> xpath: //a[contains(text(),'buy + sell')]]
+2022-05-19 11:05:455 INFO  HomePage :42 - Mouse hover and click on Used : [[FirefoxDriver: firefox on WINDOWS (382d4bd2-709e-4497-ac21-9b191568bd89)] -> xpath: //a[@data-gtm-label='sub nav used cars search']]
+2022-05-19 11:05:919 INFO  CarSearchPage :35 - Selecting make from drop down[[FirefoxDriver: firefox on WINDOWS (382d4bd2-709e-4497-ac21-9b191568bd89)] -> xpath: //select[@id='makes']]
+2022-05-19 11:05:250 INFO  CarSearchPage :40 - Selecting model from drop down[[FirefoxDriver: firefox on WINDOWS (382d4bd2-709e-4497-ac21-9b191568bd89)] -> xpath: //select[@id='models']]
+2022-05-19 11:05:358 INFO  CarSearchPage :44 - Selecting location from drop down[[FirefoxDriver: firefox on WINDOWS (382d4bd2-709e-4497-ac21-9b191568bd89)] -> xpath: //select[@id='locations']]
+2022-05-19 11:05:639 INFO  CarSearchPage :48 - Selecting price from drop down$30,000
+2022-05-19 11:05:214 INFO  CarSearchPage :52 - Clicking on find my next car button : Proxy element for: DefaultElementLocator 'By.xpath: //input[@id='search-submit']'
+2022-05-19 11:05:226 INFO  CarSearchPage :55 - Getting text from search : [[FirefoxDriver: firefox on WINDOWS (382d4bd2-709e-4497-ac21-9b191568bd89)] -> xpath: //h1[@class='listing-search-title']]
